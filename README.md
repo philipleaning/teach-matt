@@ -1,2 +1,2 @@
 # teach-matt
-Teach matt Geet
+Teach matt Git
